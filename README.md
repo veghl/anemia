@@ -6,5 +6,5 @@ This MATLAB app calculates the likelihood of various anemia types from Complete 
 
 - To achieve higher accuracy, the dataset was oversampled with the SMOTE algorithm.
 
-### For more information, please read the following article:
+### For more information, please read the following journal paper:
 *will be added later, currently in press*
