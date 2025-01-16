@@ -7,4 +7,4 @@ This MATLAB app calculates the likelihood of various anemia types from Complete 
 - To achieve higher accuracy, the dataset was oversampled with the SMOTE algorithm.
 
 ### More details in the journal paper:
-VÉGH, L., ANNUŠ, N., CZAKÓOVÁ, K., & TAKÁČ, O. (2024). Improving Machine Learning Classification Models for Anaemia Type Prediction by Oversampling Imbalanced Complete Blood Count Data with Smote-Based Algorithms. In *AD ALTA: Journal of Interdisciplinary Research*. Vol. 14, Issue 2, pp. 469–475. MAGNANIMITAS. [https://doi.org/10.33543/j.1402.469475](https://doi.org/10.33543/j.1402.469475)
+VÉGH, L., ANNUŠ, N., CZAKÓOVÁ, K., & TAKÁČ, O. (2024). Improving Machine Learning Classification Models for Anaemia Type Prediction by Oversampling Imbalanced Complete Blood Count Data with SMOTE-based Algorithms. In *AD ALTA: Journal of Interdisciplinary Research*. Vol. 14, Issue 2, pp. 469–475. MAGNANIMITAS. [https://doi.org/10.33543/j.1402.469475](https://doi.org/10.33543/j.1402.469475)
